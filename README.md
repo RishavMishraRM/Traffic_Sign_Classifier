@@ -11,3 +11,5 @@ The goals/steps of this project are the following:
 * Use the model to make predictions on new images
 * Analyze the softmax probabilities of the new images
 * Summarize the results with a written report
+
+### Data Set Summary & Exploration
