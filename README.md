@@ -15,3 +15,5 @@ The goals/steps of this project are the following:
 ### Data Set Summary & Exploration
 
 #### 1. Provide a basic summary of the data set. In the code, the analysis should be done using python, numpy, and/or pandas methods rather than hardcoding results manually.
+I used the NumPy library to calculate summary statistics of the traffic
+signs data set
