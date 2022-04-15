@@ -19,3 +19,4 @@ I used the NumPy library to calculate summary statistics of the traffic
 signs data set
 * The size of training set is <b>`34799`</b>
 * The size of the validation set is <b>`4410`</b>
+* The size of test set is <b>`12630`</b>
