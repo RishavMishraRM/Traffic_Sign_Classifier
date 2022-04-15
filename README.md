@@ -20,3 +20,4 @@ signs data set
 * The size of training set is <b>`34799`</b>
 * The size of the validation set is <b>`4410`</b>
 * The size of test set is <b>`12630`</b>
+* The shape of a traffic sign image is <b>`(32, 32, 3)` # 3 becuase of R,G,B Channels.</b>
