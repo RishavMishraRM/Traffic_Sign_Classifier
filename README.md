@@ -35,3 +35,4 @@ As we can see labels marked as `Speed limit(30km/h)`, `Speed limit(50km/h)`, `Sp
 
 ### Design and Test a Model Architecture
 
+#### 1. Describe how you preprocessed the image data. What techniques were chosen, and why did you choose these techniques? Consider including images showing the output of each preprocessing technique. Pre-processing refers to techniques such as converting to grayscale, normalization, etc.
