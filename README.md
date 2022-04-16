@@ -41,3 +41,6 @@ To preprocess the data, the following steps were taken on all train, validation,
 * <b>Converting to grayscale</b> - This worked well for both authors Sermanet and LeCun as described in their [Traffic Sign Classification Article](http://yann.lecun.com/exdb/publis/pdf/sermanet-ijcnn-11.pdf). For our pipeline, it also helped reduce training time by a lot as the color channels were dropped from 3 to 1. 
 
 
+<img src ="./images/grayscale.png">
+
+
