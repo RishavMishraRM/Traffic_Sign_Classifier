@@ -44,3 +44,6 @@ To preprocess the data, the following steps were taken on all train, validation,
 <img src ="./images/grayscale.png">
 
 * <b>Normalizing the data to the range (-1,1)</b> - This was done using the line of code `(dataset - 128)/128`. The resulting dataset mean wasn't exactly `zero`, but it was reduced from being around `82.677589037` to roughly around `-0.354081335648`. This helps during training time as it reduces the possibility of having a wider distribution in the data which would have made it more difficult and to train using a singular learning rate.
+
+<img src ="./images/normalized.png">
+#### 2. Describe what your final model architecture looks like including model type, layers, layer sizes, connectivity, etc.) Consider including a diagram and/or table describing the final model.
