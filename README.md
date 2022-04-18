@@ -47,3 +47,8 @@ To preprocess the data, the following steps were taken on all train, validation,
 
 <img src ="./images/normalized.png">
 #### 2. Describe what your final model architecture looks like including model type, layers, layer sizes, connectivity, etc.) Consider including a diagram and/or table describing the final model.
+For this LeNet CNN implementation, I modified the final model based on the following [paper](http://yann.lecun.com/exdb/publis/pdf/sermanet-ijcnn-11.pdf) by Prof. Yann LeCun.
+This paper outlines a modified LeNet design specifically for Trafic Sign Classification problems. This modified architecture takes and input of gray scaled images and consists of the following layers:
+
+
+
