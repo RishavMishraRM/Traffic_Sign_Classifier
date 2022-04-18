@@ -50,5 +50,6 @@ To preprocess the data, the following steps were taken on all train, validation,
 For this LeNet CNN implementation, I modified the final model based on the following [paper](http://yann.lecun.com/exdb/publis/pdf/sermanet-ijcnn-11.pdf) by Prof. Yann LeCun.
 This paper outlines a modified LeNet design specifically for Trafic Sign Classification problems. This modified architecture takes and input of gray scaled images and consists of the following layers:
 
+##### Input
 
 
