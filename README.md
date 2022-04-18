@@ -52,4 +52,7 @@ This paper outlines a modified LeNet design specifically for Trafic Sign Classif
 
 ##### Input
 
+This LeNet architecture accepts a 32x32xC image as input, where C is the number of color channels. For our case after preprocessing, initially C would have been 3 due to three layers of RGB Color channel but now as images are in left gray color channel, therefore C = 1.
+
+
 
