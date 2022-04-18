@@ -56,5 +56,6 @@ This LeNet architecture accepts a 32x32xC image as input, where C is the number 
 
 ##### Activation Function used:
 - ReLU
+##### Number of Epochs and Batch Size after Experimentation.
 
 
