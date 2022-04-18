@@ -58,4 +58,8 @@ This LeNet architecture accepts a 32x32xC image as input, where C is the number 
 - ReLU
 ##### Number of Epochs and Batch Size after Experimentation.
 
+| Value                 |     Type         | 
+|:---------------------:|:---------------------------------------------:| 
+| 60 | EPOCH | 
+| 100 | BATCH |
 
