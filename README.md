@@ -81,3 +81,8 @@ This LeNet architecture accepts a 32x32xC image as input, where C is the number 
 |Dropout | Here we drop and kep probabilities |
 |Layer 5 - Fully Connected (Logits) | This should result in 43 outputs as there are 43 total classes. |
 
+##### Output (Logits)
+
+- Returns the result of the 2nd fully connected layer i.e. 43 logits.
+
+
