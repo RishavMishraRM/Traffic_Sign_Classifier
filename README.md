@@ -85,4 +85,7 @@ This LeNet architecture accepts a 32x32xC image as input, where C is the number 
 
 - Returns the result of the 2nd fully connected layer i.e. 43 logits.
 
+#### 3. Describe how you trained your model. The discussion can include the type of optimizer, the batch size, number of epochs, and any hyperparameters such as learning rate.
+
+
 
