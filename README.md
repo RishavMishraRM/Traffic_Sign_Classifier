@@ -63,3 +63,4 @@ This LeNet architecture accepts a 32x32xC image as input, where C is the number 
 | 60 | EPOCH | 
 | 100 | BATCH |
 
+##### Architecture
