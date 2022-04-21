@@ -64,3 +64,20 @@ This LeNet architecture accepts a 32x32xC image as input, where C is the number 
 | 100 | BATCH |
 
 ##### Architecture
+
+| Layer                 |     Description         | 
+|:---------------------:|:---------------------------------------------:| 
+| Input                 | 32x32x1 Gray Scale image (preprocessed)  | 
+| Layer 1 - Convolution 5x5   | [1,2,2,1] stride, valid padding, output shape 28x28x6 |
+| RELU                    | Activation Method |
+| Max pooling              | 2x2 stride,  outputs 14x14x6 (refered as subsampling in the paper) |
+| Layer 2 - Convolution 5x5   | [1,2,2,1] stride, valid padding, output shape 10x10x16 |
+| ReLU    | Activation Method |
+| Max pooling              | 2x2 stride,  outputs 5x5x16 (refered as subsampling in the paper) |
+| Layer 3 - Convolution 5x5   | [1,2,2,1] stride, valid padding, output shape 1x1x400 |
+| ReLU    | Activation Method |
+|Flatten & Merge| Flatten the output shape of the `Layer 2 Max Pooling` and `Layer 3 Convlution` output of 1x800. The easiest way to do is by using `tf.contrib.layers.flatten.`|
+|Layer 4 - Fully Connected | This will have 800 outputs|
+|Dropout | Here we drop and kep probabilities |
+|Layer 5 - Fully Connected (Logits) | This should result in 43 outputs as there are 43 total classes. |
+
