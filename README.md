@@ -115,6 +115,7 @@ Here are five German traffic signs that I found on the web, I manually scaled ea
 
 - Input Image shape: <b>`(32, 32, 3)`</b>
 - After Processing Image the list shape is: <b>`(6, 32, 32, 1)`</b>
+<img src="./images/saved_images.png"  height='300px'>
 
 
 
