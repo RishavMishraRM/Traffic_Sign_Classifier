@@ -111,6 +111,12 @@ My approach was a little of both. As I mentioned earlier, I started with pre-def
 ### Test a Model on New Images
 #### 1. Choose five German traffic signs found on the web and provide them in the report. For each image, discuss what quality or qualities might be difficult to classify.
 
+Here are five German traffic signs that I found on the web, I manually scaled each of them via Mac Preview to shape(32,32,3), but I tend to automate this process by creating a resize function for input images, so it does it by default.
+
+
+
+
+
 
 
 
