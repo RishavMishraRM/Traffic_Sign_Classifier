@@ -101,7 +101,10 @@ So I decided to go ahead and modify the current architecture with the defined ar
 
 
 
+My final model results after training were:
 
+* validation set accuracy of `96.5`
+* test set accuracy of `94.2`
 
 
 
