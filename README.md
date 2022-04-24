@@ -92,6 +92,15 @@ To train the model, I first ran on just the normalized dataset which achieved an
 So I decided to go ahead and modify the current architecture with the defined architecture in the paper. Some things, which I did not change during implementation were the optimizer which was `Adam optimizer`, already implemented in the LeNet lab and mu, sigma values which are `0` and `0.1` respectively. The rest of the Hyperparameters were modified over a few tests, and the following settings were used:
 
 
+- batch size: `100`
+- epochs: `60`
+- learning rate: `0.0009`
+- dropout keep probability: `0.5`
+
+
+
+
+
 
 
 
