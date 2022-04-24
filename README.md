@@ -109,6 +109,7 @@ My final model results after training were:
 My approach was a little of both. As I mentioned earlier, I started with pre-defined architecture (LeNet Model as provided in the previous lab) and with almost all of the tweaking and modifications, there was an iterative process of trial and error involved to a certain extent. After various hours and days spent, to just tune the hyperparameters against training to get a good level of validation accuracy, it was not soon after I discovered that this trial and error method to only tune model's parameters is nothing but an elaborated double-sided inequality for each hyperparameter, and hence it will take a long time to identify bounds and then tune further to minimize gap, i.e., a losing strategy when it comes to building the neural nets. So I researched online on provided sources and found a reference to modified LeNet Architecture on Prof. Yann LeCun's Website, this model was a perfect fit for this exercise as it was not only specific to traffic signs classification itself, but it also highlighted a well defined preprocessing strategy for input dataset and outlined various steps in improving model architecture to increase validation accuracy.
 
 ### Test a Model on New Images
+#### 1. Choose five German traffic signs found on the web and provide them in the report. For each image, discuss what quality or qualities might be difficult to classify.
 
 
 
