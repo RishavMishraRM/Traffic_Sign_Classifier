@@ -87,5 +87,13 @@ This LeNet architecture accepts a 32x32xC image as input, where C is the number 
 
 #### 3. Describe how you trained your model. The discussion can include the type of optimizer, the batch size, number of epochs, and any hyperparameters such as learning rate.
 
+To train the model, I first ran on just the normalized dataset which achieved an accuracy of 92.7% on validation. This accuracy was fine but still wasn't enough for creating a robust classifier. On running the same model on the default architecture i.e, `batch size: 128`, `epochs: 10`, `rate: 0.001`, `mu: 0`, `sigma: 0.1` but this time with grayscaled and normalized inputs as described in the LeNet lab.  I achieved an approx. 94.3% accuracy on validation; this was a big improvement. But later when I started playing with the actual model and got onto the tuning the rate, epoch and batch size, in hopes of gaining a better model, I came to a realization, that the model was just improving slightly (and in some cases acting really worse) when it was either tuned too much on just these variable or the batch size was increased more than 128 units. On researching a lot about actual LeNet structure on Prof. Yann LeCun's Site, I came across an article on using LeNet architecture for traffic signs. This article was old but was robust enough to classify traffic signs with a 99% accuracy. 
+
+
+
+
+
+
+
 
 
