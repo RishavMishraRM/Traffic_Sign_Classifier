@@ -117,7 +117,7 @@ Here are five German traffic signs that I found on the web, I manually scaled ea
 - After Processing Image the list shape is: <b>`(6, 32, 32, 1)`</b>
 <img src="./images/saved_images.png"  height='300px'>
 
-
+#### 2. Discuss the model's predictions on these new traffic signs and compare the results to predicting on the test set. At a minimum, discuss what the predictions were, the accuracy of these new predictions, and compare the accuracy to the accuracy on the test set.
 
 
 
