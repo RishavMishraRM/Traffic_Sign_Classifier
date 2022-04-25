@@ -122,6 +122,7 @@ Here are five German traffic signs that I found on the web, I manually scaled ea
 Here are the results of the prediction:
 <img src="./images/predicted_images.png">
 
+The model was able to correctly guess `6 of 6 traffic signs`, which gives an accuracy of `100%`. This compares slightly favorably to the accuracy on the test set of `94.2 %`, but I still believe if given an input of one of the smaller sampled games the classifier will probably tend to fail. Here Dataset Augmentation may help.
 
 
 
