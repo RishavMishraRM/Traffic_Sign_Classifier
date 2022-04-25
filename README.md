@@ -125,6 +125,11 @@ Here are the results of the prediction:
 The model was able to correctly guess `6 of 6 traffic signs`, which gives an accuracy of `100%`. This compares slightly favorably to the accuracy on the test set of `94.2 %`, but I still believe if given an input of one of the smaller sampled games the classifier will probably tend to fail. Here Dataset Augmentation may help.
 
 
+#### 3. Describe how certain the model is when predicting on each of the five new images by looking at the softmax probabilities for each prediction. Provide the top 5 softmax probabilities for each image along with the sign type of each probability.
+
+
+
+
 
 
 
