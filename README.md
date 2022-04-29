@@ -139,6 +139,7 @@ File Name : ['./test_images/image6.png'](./test_images/image6.png)
 | Speed limit (20km/h) | 0.02236232 |
 
 
+File Name : ['./test_images/image2.png'](./test_images/image2.png)
 
 
 
