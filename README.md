@@ -151,7 +151,13 @@ File Name : ['./test_images/image2.png'](./test_images/image2.png)
 
 File Name : ['./test_images/image1.png'](./test_images/image1.png)
 
-
+| Label |  Softmax Probabilities |
+|:--------:|:-----------:|
+|Right-of-way at the next intersection| 0.06078682|
+|Speed limit (20km/h)| 0.02236222|
+|Speed limit (30km/h)| 0.02236222|
+|Speed limit (50km/h)| 0.02236222|
+|Speed limit (60km/h)| 0.02236222|
 
 
 
