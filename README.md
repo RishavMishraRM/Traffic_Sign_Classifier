@@ -130,7 +130,13 @@ The model was able to correctly guess `6 of 6 traffic signs`, which gives an acc
 Here are the Top 5 Softmax Probabilities of predicted labels by our model for each input image.
 File Name : ['./test_images/image6.png'](./test_images/image6.png)
 
-
+| Label |  Softmax Probabilities |
+|:--------:|:-----------:|
+| Stop | 0.06078015 |
+| No entry | 0.02236400 |
+| No passing | 0.02236312 |
+| Speed limit (120km/h) | 0.02236238 |
+| Speed limit (20km/h) | 0.02236232 |
 
 
 
