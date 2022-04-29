@@ -149,6 +149,7 @@ File Name : ['./test_images/image2.png'](./test_images/image2.png)
 |Speed limit (60km/h) | 0.02236222 |
 |Speed limit (70km/h) | 0.02236222 |
 
+File Name : ['./test_images/image1.png'](./test_images/image1.png)
 
 
 
