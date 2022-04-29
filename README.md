@@ -141,6 +141,42 @@ File Name : ['./test_images/image6.png'](./test_images/image6.png)
 
 File Name : ['./test_images/image2.png'](./test_images/image2.png)
 
+| Label |  Softmax Probabilities |
+|:--------:|:-----------:|
+|Speed limit (30km/h) | 0.06078682 |
+|Speed limit (20km/h) | 0.02236222 |
+|Speed limit (50km/h) | 0.02236222 | 
+|Speed limit (60km/h) | 0.02236222 |
+|Speed limit (70km/h) | 0.02236222 |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
