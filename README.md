@@ -162,7 +162,13 @@ File Name : ['./test_images/image1.png'](./test_images/image1.png)
 
 File Name : ['./test_images/image4.png'](./test_images/image4.png)
 
-
+| Label |  Softmax Probabilities |
+|:--------:|:-----------:|
+Turn left ahead | 0.06078682
+Speed limit (20km/h)| 0.02236222
+Speed limit (30km/h)| 0.02236222
+Speed limit (50km/h)| 0.02236222
+Speed limit (60km/h)| 0.02236222
 
 
 
