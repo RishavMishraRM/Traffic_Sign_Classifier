@@ -161,6 +161,7 @@ File Name : ['./test_images/image1.png'](./test_images/image1.png)
 
 
 File Name : ['./test_images/image4.png'](./test_images/image4.png)
+<img src=./test_images/image4.png>
 
 | Label |  Softmax Probabilities |
 |:--------:|:-----------:|
