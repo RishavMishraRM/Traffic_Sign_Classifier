@@ -183,6 +183,7 @@ Speed limit (70km/h)| 0.02236225
 
 
 File Name : ['./test_images/image5.png'](./test_images/image5.png)
+<img src=./test_images/image5.png>
 
 
 | Label |  Softmax Probabilities |
