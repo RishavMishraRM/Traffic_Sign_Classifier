@@ -172,6 +172,7 @@ Speed limit (60km/h)| 0.02236222
 
 
 File Name : ['./test_images/image3.png'](./test_images/image3.png)
+<img src=./test_images/image3.png>
 
 | Label |  Softmax Probabilities |
 |:--------:|:-----------:|
