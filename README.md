@@ -194,7 +194,7 @@ File Name : ['./test_images/image5.png'](./test_images/image5.png)
 |Speed limit (60km/h)| 0.02236222|
 
 
-
+The model seems to be `.06078 %` sure about the predicted labels. Well this, as we can see, is still not the most robust model. I believe that this can be tested to improve by incorporating more features in the dataset preprocessing like brightness adjustments, data augmentation, image resizing, and stabilizing.
 
 
 
