@@ -140,7 +140,7 @@ File Name : ['./test_images/image6.png'](./test_images/image6.png)<br>
 | Speed limit (20km/h) | 0.02236232 |
 
 
-File Name : ['./test_images/image2.png'](./test_images/image2.png)
+File Name : ['./test_images/image2.png'](./test_images/image2.png)<br>
 <img src="./test_images/image2.png">
 
 | Label |  Softmax Probabilities |
