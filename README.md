@@ -129,7 +129,7 @@ The model was able to correctly guess `6 of 6 traffic signs`, which gives an acc
 
 Here are the Top 5 Softmax Probabilities of predicted labels by our model for each input image.<br>
 File Name : ['./test_images/image6.png'](./test_images/image6.png)
-<img src="">
+<img src="./test_images/image6.png">
 
 | Label |  Softmax Probabilities |
 |:--------:|:-----------:|
