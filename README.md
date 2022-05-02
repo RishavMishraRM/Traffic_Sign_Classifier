@@ -141,7 +141,7 @@ File Name : ['./test_images/image6.png'](./test_images/image6.png)
 
 
 File Name : ['./test_images/image2.png'](./test_images/image2.png)
-<img src="">
+<img src="./test_images/image2.png">
 
 | Label |  Softmax Probabilities |
 |:--------:|:-----------:|
