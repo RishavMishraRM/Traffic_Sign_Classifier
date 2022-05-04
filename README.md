@@ -188,7 +188,7 @@ Speed limit (30km/h)| 0.02236225
 Speed limit (70km/h)| 0.02236225
 
 
-File Name : ['./test_images/image5.png'](./test_images/image5.png)
+File Name : ['./test_images/image5.png'](./test_images/image5.png)<br>
 <img src=./test_images/image5.png>
 
 
