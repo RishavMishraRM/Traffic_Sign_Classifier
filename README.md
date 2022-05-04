@@ -126,7 +126,7 @@ The model was able to correctly guess `6 of 6 traffic signs`, which gives an acc
 
 
 #### 3. Describe how certain the model is when predicting on each of the five new images by looking at the softmax probabilities for each prediction. Provide the top 5 softmax probabilities for each image along with the sign type of each probability.
-
+<br>
 Here are the Top 5 Softmax Probabilities of predicted labels by our model for each input image.<br>
 File Name : ['./test_images/image6.png'](./test_images/image6.png)<br>
 <img src="./test_images/image6.png">
